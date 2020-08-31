@@ -34,6 +34,8 @@ Then again run the script and choose option to select Use Nginx proxy
 
 Done.
 
+If you want to run mutiple Nodejs app on single host just run apps on different port and configure Nginx to work with it.
+
 Now visit http://your_ip/
 
 Optional Steps-
